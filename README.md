@@ -73,3 +73,14 @@ To start using the robot:
 <br>
 <br>
 
+## Videos:
+1-https://youtu.be/sAK6A7Ta8fA
+<br>
+<br>
+Explainig Hardware connection and choice of hardware.
+<br>
+<br>
+2-
+<br>
+<br>
+Explaining the functionality of the robot.
