@@ -13,7 +13,7 @@
 >> ESP32-main: ESP32 source code, used to receive sensors data from arduino and display it on local webpage using ESP32 server.
 <br>
 <br>
->> IR_REMOTE_DECODE: IR Remote source code,used to read HEX values of pressed buttons so we can program the robot actions.this file is set for IR sensor Test and DHT22 Temperature and Humidity Sensor Test.
+>> IR_REMOTE_DECODE: IR Remote source code,used to read HEX values of pressed buttons so we can program the robot actions.this file is set for IR sensor Test and DHT22 Temperature and Humidity Sensor Test and MQ-135 Gas Sensor Test.
 <br>
 <br>
 >> circuit.png/jpg: Fritzing picture for the robot electrical connection.
