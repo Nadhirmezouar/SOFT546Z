@@ -47,7 +47,7 @@ To start using the robot:
 <br>
 8- Use arrows to move the robot and enjoy playing with it.
 
-## Hardware Uesed:
+## Hardware Used:
 1- Arduino Uno
 <br>
 <br>
